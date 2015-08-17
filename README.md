@@ -1,2 +1,2 @@
 # MyPractice
-MyPractice
+Learning c++ with multithreading
